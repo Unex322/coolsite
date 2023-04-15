@@ -2,7 +2,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.6-brightgreen.svg)](https://python.org)
 [![PyPI - Django Version](https://img.shields.io/pypi/djversions/djangorestframework.svg)](https://djangoproject.com)
 
-Web application built by django framework.[Visit my website](https://cotp.pythonanywhere.com/)
+Web application built by django framework.[Visit my website](http://unex322.beget.tech/)
 
 ##
 There some techniques have been used in my project
