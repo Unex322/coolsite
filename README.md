@@ -1,6 +1,6 @@
 # My django project
-[![Python Version](https://img.shields.io/badge/python-3.6-brightgreen.svg)](https://python.org)
-[![PyPI - Django Version](https://img.shields.io/pypi/djversions/djangorestframework.svg)](https://djangoproject.com)
+[![Python Version](https://img.shields.io/badge/python-3.11-brightgreen.svg)](https://python.org)
+[![PyPI - Django Version]
 
 Web application built by django framework.[Visit my website](http://unex322.beget.tech/)
 
